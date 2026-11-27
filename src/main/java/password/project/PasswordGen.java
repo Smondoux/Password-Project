@@ -1,3 +1,4 @@
+package password.project;
 import java.security.SecureRandom;
 
 public class PasswordGen {

@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.title {
+    font-size: 70px;
+}
+
+#generate-form-output {
+    height: 70px;
+}
+
+#generate-output {
+    font-size: 32px;
+}
+
+#generate-button {
+    font-size: 24px;
+}

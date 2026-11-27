@@ -1,3 +1,5 @@
+package password.project;
+
 public class Tests {
     public static void main(String[] args) {
         PasswordGen gen = new PasswordGen();
